@@ -11,7 +11,7 @@ import time
 # ---------------------------------------------------------
 # TRUE  = Simulates that the game has NOT started yet (Force Lock for Testing)
 # FALSE = Uses the real system database time checking logic for production
-DEV_OVERRIDE_LIVE = True
+DEV_OVERRIDE_LIVE = False
 
 # -----------------------------------------
 # 1. DATABASE INITIALIZATION
